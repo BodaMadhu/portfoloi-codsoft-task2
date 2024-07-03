@@ -1,0 +1,60 @@
+#contact {
+    padding: 100px 0;
+    background: #f4f4f4;
+}
+#contact .container {
+    position: relative;
+}
+#contact .row {
+    display: flex;
+    align-items: center;
+}
+#contact .col-lg-6 {
+    flex: 1;
+}
+#contact h2 {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 40px;
+    color: #333;
+}
+#contact p {
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 40px;
+    color: #555;
+}
+#contact ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+#contact li {
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+}
+#contact li i {
+    margin-right: 10px;
+    font-size: 18px;
+    color: #008000;
+}
+#contact .form-group {
+    margin-bottom: 20px;
+}
+#contact .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #333;
+}
+#contact .form-group input, #contact .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    outline: none;
+}
+#contact .form-group input:focus, #contact .form-group textarea:focus {
+    border-color: #008000;

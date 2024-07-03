@@ -1,0 +1,68 @@
+*{
+  margin:0;
+  padding:0;
+}
+.container{
+  width:100%;
+  background:url(https://static.vecteezy.com/system/resources/thumbnails/015/132/071/small/abstract-the-cyan-background-for-design-hd-wallpaper-free-vector-free-photo.jpg);
+  background-position:center;
+  background-size:cover;
+  height:100vh;
+  position:relative;
+  font-family:sans-serif;
+}
+#about h2 {
+    font-size: 2rem;
+  }
+  
+  #about p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+  }
+  
+  #about ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #about li {
+    margin-bottom: 0.5rem;
+  }
+  
+  #about li i {
+    margin-right: 0.5rem;
+  }
+  
+  #about img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  .image{
+    width:25%;
+    height:50%;
+    position:absolute;
+    right:80px;
+    bottom:0;
+    radius:5px;
+  }
+  .col-md-6 p{
+    font-size:65px;
+    color:black;
+  }
+  .col-md-6 p{
+    margin-left:7%;
+    margin-top:6%;
+}
+.row h2{
+  margin-left:40%;
+}
+.col-md-6 h3{
+  color:rgb(230,104,59);
+  margin-left:0%;
+  font-size:30px;
+  margin-left:7%;
+}
+.col-md-6 ul{
+  margin-left:7%;
+  margin-top:2%;
+}
